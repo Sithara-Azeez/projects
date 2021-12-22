@@ -1,0 +1,79 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background: #eee;
+    padding-top: 10px;
+}
+.head{
+    font-weight: 500px;
+    margin-left: 500px;
+}
+
+.subhead{
+    font-size: 15px;
+    margin-left: 500px;
+    margin-top: -20px;
+}
+body{
+    margin: 0;
+}
+.main-body{
+    height: 1000px;
+    width: 100%;
+    background: rgb(216, 204, 208);
+}
+.foot{
+    height: 100px;
+    width: 100%;
+    background: lavenderblush;
+    padding-left: 609px;
+    padding-top: 20px;
+}
+    
+.foot-head{
+    font-size: 20px;
+    font-weight: 100px;
+    color: rgb(16, 134, 128);
+}
+.innerbody1{
+    
+    background: lavenderblush; 
+    float: left;
+    
+}
+.innerbody2{
+    height: 500px;
+    width: 50%;
+    background: #fff; 
+    float: left;
+}
+.innerbody3{
+    height: 500px;
+    width: 50%;
+    background: #fff; 
+    float: left;
+}
+.innerbody4{
+   
+    background: lavenderblush; 
+    float: left;
+}
+.product{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+
+}
+.productimg{
+    height: 389px;
+    width: 75%;
+    margin: 10px;
+    padding-top: 32px;
+    padding-left: 65px;
+}
+.abtproduct{
+    padding-left: 10px;
+}
+#jsweb{
+    padding-left: 225px;
+}
